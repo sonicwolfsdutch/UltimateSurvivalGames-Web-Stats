@@ -44,7 +44,7 @@ echo '<div class="row" style="border-radius:3px;border:1px solid #000;">
     </div>
 </div>';
 echo '<div class="row" style="margin-top:55px;">
-<div class="col-md-3"><img src="http://minotar.net/avatar/'.$player.'"><br><h4>'.$player.'</h4></div>
+<div class="col-md-3"><img src="http://minecraft-skin-viewer.com/face.php?s=172&u='.$player.'"><br><h4>'.$player.'</h4></div>
 <div class="col-md-9">
     <div align="center" style="margin-top:15px;">
         <table class="table">
