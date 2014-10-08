@@ -50,7 +50,7 @@ while($row = mysql_fetch_array($result)){
 
 
 	echo '<tr><td>',$index,'</td>';
-	echo '<td><a href="index.php?page=player&lastname=',$row['lastname'],'"><img src="http://minotar.net/avatar/',$row['lastname'],'/16.png"></a> <a href="index.php?page=player&player=',$row['lastname'],'">',$row['lastname'],'</a></td>';
+	echo '<td><a href="index.php?page=player&lastname=',$row['lastname'],'"><img src=http://minecraft-skin-viewer.com/face.php?s=16&u=',$row['lastname'],'></a> <a href="index.php?page=player&player=',$row['lastname'],'">',$row['lastname'],'</a></td>';
 	echo '<td>',$row['points'], '</td>';
 	echo '<td>',$row['wins'],'</td>';
 	echo '<td>',$row['kills'],'</td>';
